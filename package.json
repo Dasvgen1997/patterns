@@ -1,0 +1,17 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/Dasvgen1997/patterns.git",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
