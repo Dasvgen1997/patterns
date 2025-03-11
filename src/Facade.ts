@@ -3,6 +3,8 @@ interface IAuthService {
     readonly isAuth: boolean;
 }
 
+console.log('Test')
+
 class AuthService implements IAuthService {
     private isAuthenticated: boolean = false;
 
